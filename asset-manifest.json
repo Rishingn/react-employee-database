@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/emp-portal/static/css/main.78e06a71.chunk.css",
-    "main.js": "/emp-portal/static/js/main.3006ddd7.chunk.js",
-    "main.js.map": "/emp-portal/static/js/main.3006ddd7.chunk.js.map",
-    "runtime-main.js": "/emp-portal/static/js/runtime-main.fc871bcb.js",
-    "runtime-main.js.map": "/emp-portal/static/js/runtime-main.fc871bcb.js.map",
-    "static/js/2.1eacee02.chunk.js": "/emp-portal/static/js/2.1eacee02.chunk.js",
-    "static/js/2.1eacee02.chunk.js.map": "/emp-portal/static/js/2.1eacee02.chunk.js.map",
-    "index.html": "/emp-portal/index.html",
-    "precache-manifest.ae314281bc785466ae503062c908c3ba.js": "/emp-portal/precache-manifest.ae314281bc785466ae503062c908c3ba.js",
-    "service-worker.js": "/emp-portal/service-worker.js",
-    "static/css/main.78e06a71.chunk.css.map": "/emp-portal/static/css/main.78e06a71.chunk.css.map",
-    "static/js/2.1eacee02.chunk.js.LICENSE.txt": "/emp-portal/static/js/2.1eacee02.chunk.js.LICENSE.txt"
+    "main.css": "/react-employee-database/static/css/main.d1b05096.chunk.css",
+    "main.js": "/react-employee-database/static/js/main.5a3fd124.chunk.js",
+    "main.js.map": "/react-employee-database/static/js/main.5a3fd124.chunk.js.map",
+    "runtime-main.js": "/react-employee-database/static/js/runtime-main.a9424262.js",
+    "runtime-main.js.map": "/react-employee-database/static/js/runtime-main.a9424262.js.map",
+    "static/js/2.69e4c8fc.chunk.js": "/react-employee-database/static/js/2.69e4c8fc.chunk.js",
+    "static/js/2.69e4c8fc.chunk.js.map": "/react-employee-database/static/js/2.69e4c8fc.chunk.js.map",
+    "index.html": "/react-employee-database/index.html",
+    "precache-manifest.76d2f155ef101f0570b31a61b3b63fd2.js": "/react-employee-database/precache-manifest.76d2f155ef101f0570b31a61b3b63fd2.js",
+    "service-worker.js": "/react-employee-database/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/react-employee-database/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.69e4c8fc.chunk.js.LICENSE.txt": "/react-employee-database/static/js/2.69e4c8fc.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-employee-database/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc871bcb.js",
-    "static/js/2.1eacee02.chunk.js",
-    "static/css/main.78e06a71.chunk.css",
-    "static/js/main.3006ddd7.chunk.js"
+    "static/js/runtime-main.a9424262.js",
+    "static/js/2.69e4c8fc.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.5a3fd124.chunk.js"
   ]
 }
